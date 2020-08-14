@@ -1,0 +1,25 @@
+{
+  "name": "arctic-emp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natetan/arctic-empire-bot.git"
+  },
+  "author": "Nate Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natetan/arctic-empire-bot/issues"
+  },
+  "homepage": "https://github.com/natetan/arctic-empire-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "jimp": "^0.14.0",
+    "lodash": "^4.17.19",
+    "winston": "^3.3.3"
+  }
+}

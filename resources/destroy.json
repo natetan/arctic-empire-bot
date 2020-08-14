@@ -1,0 +1,67 @@
+{
+  "warrior": [
+    "@ wiptes the whole group by synergizing on Destructive Outbreak.",
+    "@ is swiped by a thousand cuts, like whispers in the wind.",
+    "@ dies to Shehai Storm.",
+    "@ dies from the shield throw.",
+    "@ is caught in a destructive outbreak and dies.",
+    "@ completes Hel Ra Citadel with a score of 20.",
+    "@ is caught in Ra Kotu's spin and dies."
+  ],
+  "serpent": [
+    "@ doesn't drain their magicka in time and dies.",
+    "@ falls off the bridge and dies. There was no skyshard in sight.",
+    "@ gets clapped by Worldshaper and swears that it's the last time it'll ever happen.",
+    "@ dies to troll poison...again."
+  ],
+  "mage": [
+    "@ is yeeted into oblivion upon the arrival of a Reflection.",
+    "@ dies within the Arcane Vortex"
+  ],
+  "zmaja": [
+    "@ gets wrecked by corpulence.",
+    "z'Maja destroys @ with Nocturnal's Favor.",
+    "@ is dropped from the sky and breaks both legs.",
+    "@ runs face first into a malevolent orb and dies.",
+    "@ is rooted by a creeper and has no stamina to roll dodge and dies.",
+    "@ is overloaded and swaps bars and wipes the group.",
+    "@ has Siroria's fire bomb and dies alone.",
+    "Relequen strikes down @ with Mages' Fury.",
+    "@ tries to rez someone with a shade up and dies.",
+    "@ dies to Dark Drain."
+  ],
+  "rakkhat": [
+    "@ drops a core in group and kills a few team members.",
+    "@ dies to Crushing Void",
+    "@ converts incorrectly and wipes the entire group."
+  ],
+  "dragon": [
+    "@ is yeeted off the cliffside by wing thrash and dies.",
+    "@ dies in portals...again.",
+    "@ stacks fires incorrectly and wipes out one group.",
+    "@ doesn't get behind the statue in time and dies to Yolnakriin's fires.",
+    "@ is savagely cleaved down by a Fury walking into group.",
+    "@ doesn't block a Fate's meteor and dies.",
+    "@ is shouted to dust by Lokkestiiz.",
+    "@ leaves Nahviintaas' meteors in group.",
+    "@ completes Sunspire with a score of 76.",
+    "@ stays in the center when Yolnahkriin takes flight and dies to cataclysm.",
+    "@ is struck down by Call Lightning.",
+    "@ gets smacked by an Ice Atro's Glacial Fist.",
+    "@ picked a fight with an Iron Servant and lost. No one is surprised."
+  ],
+  "olms": [
+    "@ dies to Storm of the Heavens.",
+    "Olms 180s and steamrolls @ with Scalding Roar.",
+    "@ is crushed by Gusts of Steam as Olms jumps around.",
+    "@ dies inside Olms' lightning AoE."
+  ],
+  "felms": [
+    "@ gets absolutely crushed by Felms' Manifest Wrath.",
+    "@ is hit by Felms' maim and is now tickling Olms."
+  ],
+  "llothis": [
+    "@ spins Llothis' Defiling Blast around and wipes the entire group.",
+    "@ dies to Oppressive Bolts."
+  ]
+}
