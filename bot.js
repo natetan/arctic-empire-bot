@@ -62,6 +62,15 @@ client.on("guildDelete", guild => {
   logger.info(`I have been removed from: ${guild.name} (id: ${guild.id})`);
 });
 
+const defaultChannel = process.env.announce_channel_id || require('./auth.json').bot_test_general_channel_id;
+client.on('guildMemberAdd', member => {
+  let retorts = quotes.retort;
+  let randomQuote = quoteUtils.getQuote(retorts);
+  let welcome = `Welcome <@${member.user.id}>! ${randomQuote}`;
+  console.log(`Member: ${member}`);
+  member.guild.channels.cache.get(defaultChannel).send(welcome);
+});
+
 client.on('message', async message => {
 
   // It's good practice to ignore other bots. This also makes your bot ignore itself
