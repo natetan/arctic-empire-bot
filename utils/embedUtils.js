@@ -42,7 +42,7 @@ function createMemeEmbed(meme) {
   return embed;
 }
 
-function createSongEmbed(song) {
+function createSong(song) {
   let embed = new Discord.MessageEmbed()
     .setColor(logos.color)
     .setTitle(song.name)
@@ -102,7 +102,7 @@ module.exports = {
   createGeneralHelpEmbed,
   createSpecializedHelpEmbed,
   createMemeEmbed,
-  createSongEmbed,
+  createSong,
   createAlbumEmbed,
   createSimpleMessageEmbed,
   createExampleEmbed

@@ -20,6 +20,7 @@
     "discord.js": "^12.2.0",
     "jimp": "^0.14.0",
     "lodash": "^4.17.19",
+    "node-spotify-api": "^1.1.1",
     "winston": "^3.3.3"
   }
 }
